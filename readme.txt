@@ -18,4 +18,9 @@ git merge --on-ff -m ""  dev
 ...
 >>>>>>> feature-vulcan
 fengexian
+<<<<<<< HEAD
 abcde
+=======
+add /usr/bin/env
+>>>>>>> 0b6fc69395626e8ada44c5484b8daf1960971fd4
+
